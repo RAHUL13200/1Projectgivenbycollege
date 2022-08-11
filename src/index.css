@@ -40,6 +40,7 @@ justify-content:flex-start;
     align-items: center;
 }
 .navbar-nav{
+    font-family: 'Roboto', sans-serif;
     font-size: 1.2vw;
 }
 /* Slideshow container */
@@ -134,6 +135,7 @@ margin-right: 0px;
     font-size: 5vw;
 }
 .service-caption{
+    font-family: 'Roboto', sans-serif;
     margin-top: 1.2em;
     font-size: 1.2vw;
 }
@@ -321,6 +323,7 @@ text-decoration: none;
     margin-left: 1.7em;
 }
 .copyrights{
+    font-family: 'Roboto', sans-serif;
     font-size: 1.4vw;
     display: flex;
     justify-content: space-evenly;
